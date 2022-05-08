@@ -1,4 +1,4 @@
-![Cervantes logo](https://raw.githubusercontent.com/CervantesSecurity/.github/main/profile/logo-horizontal.png)
+![Cervantes logo](https://raw.githubusercontent.com/CervantesSecurity/.github/main/profile/logo-horizontal2.png)
 
 Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place. 
 
