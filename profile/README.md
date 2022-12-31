@@ -27,5 +27,12 @@ Cervantes is an opensource collaborative platform for pentesters or red teams wh
 * One click reports creation
 * And more
 
+## Call to action
+
+Maintaining Cervantes requires substantial time and effort. If you are interested in assisting with QA testing, documentation or fixing bugs then please review our GitHub page and issues to participate.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=YS42VF2N9GANA)
+
+
 
 
