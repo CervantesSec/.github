@@ -14,7 +14,7 @@ Cervantes is an [OWASP Foundation](https://owasp.org/www-project-cervantes/) Pro
 
 OWASP Foundation             |  Snyk
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/CervantesSec/.github/main/profile/owasp.png"  width="500" height="150"> |  <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png"  width="500" height="200">
+<a href="https://owasp.org/www-project-cervantes/"><img src="https://raw.githubusercontent.com/CervantesSec/.github/main/profile/owasp.png"  width="500" height="150"></a> |  <a href="https://snyk.io/"><img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png"  width="500" height="200"></a>
 
 
 
