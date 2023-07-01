@@ -11,7 +11,12 @@ Cervantes is an opensource collaborative platform for pentesters or red teams wh
 
 Cervantes is an [OWASP Foundation](https://owasp.org/www-project-cervantes/) Project
 
-<img src="https://raw.githubusercontent.com/CervantesSec/.github/main/profile/owasp.png"  width="500" height="150">
+
+OWASP Foundation             |  Snyk
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/CervantesSec/.github/main/profile/owasp.png"  width="500" height="150"> |  <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png"  width="500" height="200">
+
+
 
 
 ## Technologies
