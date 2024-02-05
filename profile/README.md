@@ -5,8 +5,9 @@
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BvzNjT3Qzc)
 [![DOCS](https://img.shields.io/badge/-DOCS-success?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.cervantessec.org/)
 
-Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place.
+Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, streamlining the organization of projects, clients, vulnerabilities, and reports in a single, centralized location.
 
+By facilitating efficient data management and providing a unified workspace, Cervantes aims to significantly reduce the time and effort required in the coordination and execution of penetration testing activities.
 ## Supported
 
 Cervantes is an [OWASP Foundation](https://owasp.org/www-project-cervantes/) Project
