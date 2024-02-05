@@ -34,9 +34,11 @@ OWASP Foundation             |  Snyk                    |  A2SECURE
 * OpenSource
 * Multiplatform
 * Multilanguage
+* AI Integration
 * Team Collaboration
 * BuiltIn dashbaords and analytics
 * Manage your clients and Offensive Security projects
+* Modular reporting system
 * One click reports creation
 * And more
 
