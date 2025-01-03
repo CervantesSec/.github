@@ -48,11 +48,31 @@ Maintaining Cervantes requires substantial time and effort. If you are intereste
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=YS42VF2N9GANA)
 
-## Licensing
+## License
 
-![CSS](https://img.shields.io/github/license/CervantesSec/cervantes.svg)
 
-This program is free software: You can modify it under the terms of the Apache-2.0 License. OWASP Cervantes and any contributions are Copyright © by Ruben Mesquida
+This project is licensed under the GNU Affero General Public License (AGPL-3.0), except for specific components that remain licensed under the Apache License 2.0.
+
+[![AGPL](https://img.shields.io/badge/license-AGPL--3.0-green)](https://www.gnu.org/licenses/agpl-3.0.html)
+[![Apache](https://img.shields.io/badge/license-Apache--2.0-green)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
+### Summary:
+
+AGPL-3.0 applies to the majority of the project.
+
+Apache License 2.0 applies to the components listed in the NOTICE file.
+
+For more details, see the full LICENSE and NOTICE files included in this repository.
+
+## Copyright Notice
+
+Copyright (C) 2025 Ruben Mesquida Gomila
+
+OWASP Cervantes and all contributions are protected under their respective licenses. For more information on license terms, visit:
+
+- https://www.gnu.org/licenses/agpl-3.0.html
+
+- https://www.apache.org/licenses/LICENSE-2.0.html
 
 
 
